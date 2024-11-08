@@ -12,3 +12,11 @@
 <div>
  <iframe width="560" height="315" src="https://www.youtube.com/embed/8VRNpTrDFJs?si=XSwe3rM55899vgyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
+<section>{
+<h2>filmes e series</h2>
+<div>
+<img src:<iframe width="560" height="315" src="https://www.youtube.com/embed/MGgMtR5GpTc?si=cKD-zoxeivClyeOO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+/>
+</section>
+}
