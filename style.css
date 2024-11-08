@@ -10,3 +10,10 @@ header{
     font-size:32 px;
     color:(42 ,122 ,228)
 }
+
+
+section{
+    background:rgb(184,165,213);
+    padding-bottom: 80 px;
+    padding-top: 80 px;
+}
